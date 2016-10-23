@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote  name="syjust" revision="master" fetch="https://github.com/" />
+	<default revision="master" remote="syjust" sync-j="4" />
+
+	<project path="bin/bashLib" name="syjust/bashLib" />
+	<project path="php/yapabwa" name="syjust/yapabwa" />
+	<project path="php/vimeo" name="syjust/vimeo-php-lib" />
+
+</manifest>
