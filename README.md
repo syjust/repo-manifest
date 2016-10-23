@@ -16,3 +16,9 @@ this github repository allow to test a git-repo cli remote manifest env.
 projects in this defined for the "repo" sync are not linked and have nothing to do together.
 
 **This is just a test for use and configure git-repo cli**
+
+## @SEE
+
+* [repo-manifest-help](/repo-manifest-help.md) : help about manifest.xml and dtd usage
+* [known-issues](/known-issues.md) : common errors and warning on repo cli usage
+* [Official Android Doc](http://source.android.com/source/using-repo.html)
